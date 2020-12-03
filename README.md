@@ -1,7 +1,7 @@
 # dog-breed-ai  
 The goal of this project was to produce an image classifier to determine the breed of a dog and implement that classifier in a mobile application. 
 
-## CNN from scratch     
+## CNN
 Conv2D(16, 3, padding='same', activation='relu', input_shape=(180, 180, 3))  
 Dropout(0.1)  
 MaxPooling2D()  
